@@ -35,13 +35,13 @@ Setiap kali seseorang mengetik, server akan mengirimkan pesan tersebut ke semua 
 
 # Modifying port
 
-![alt text](img/Chat2.png)
+![alt text](image/Chat2.png)
 
 Karena kedua sisi masih menggunakan port 8080, sistem tetap berjalan seperti sebelumnya tanpa perubahan.
 
 
 # Small changes, add IP and Port
 
-![alt text](img/Chat3.png)
+![alt text](image/Chat3.png)
 
 Saat menjalankan beberapa klien di mesin yang sama, akan lebih mudah mengenali terminal mana yang mencetak setiap baris pesan masuk jika ada penanda yang jelas. Menambahkan awalan statis membantu membuat hal itu lebih terlihat.
