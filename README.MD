@@ -42,6 +42,6 @@ Karena kedua sisi masih menggunakan port 8080, sistem tetap berjalan seperti seb
 
 # Small changes, add IP and Port
 
-![alt text](img/image3.png)
+![alt text](img/Chat3.png)
 
-When you run multiple clients on the same machine, it’s helpful to see at a glance which terminal printed each incoming line. Adding a static prefix makes that obvious.
+Saat menjalankan beberapa klien di mesin yang sama, akan lebih mudah mengenali terminal mana yang mencetak setiap baris pesan masuk jika ada penanda yang jelas. Menambahkan awalan statis membantu membuat hal itu lebih terlihat.
