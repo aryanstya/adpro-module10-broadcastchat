@@ -31,3 +31,17 @@ All connected clients will print:
 `From server: Halo sayakan ikan`
 
 Setiap kali seseorang mengetik, server akan mengirimkan pesan tersebut ke semua pelanggan melalui broadcast channel, dan setiap klien akan menangkap pesan itu lewat select-loop-nya lalu mencetaknya ke layar.
+
+
+# Modifying port
+
+![alt text](img/Chat2.png)
+
+Karena kedua sisi masih menggunakan port 8080, sistem tetap berjalan seperti sebelumnya tanpa perubahan.
+
+
+# Small changes, add IP and Port
+
+![alt text](img/image3.png)
+
+When you run multiple clients on the same machine, it’s helpful to see at a glance which terminal printed each incoming line. Adding a static prefix makes that obvious.
